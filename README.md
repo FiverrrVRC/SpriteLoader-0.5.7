@@ -1,1 +1,2 @@
-[README.txt](https://github.com/user-attachments/files/19743455/README.txt)
+Drag the drag folder into VRC and it should work 
+put mods into MODs if any problems occur @fiverrrr0644 on discord!
