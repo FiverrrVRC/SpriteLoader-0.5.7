@@ -1,0 +1,22 @@
+UnityExplorer 4.9.0 initializing...
+[UniverseLib] UniverseLib 1.4.3 initializing...
+[UniverseLib] Finished UniverseLib initial setup.
+Initialized UnityCrashPrevention for: Canvas.get_renderingDisplaySize
+[UniverseLib] Loaded Unhollowed modules in 10.702 seconds.
+[UniverseLib] Setup deobfuscation cache in 0.213 seconds.
+[UniverseLib] Initialized Legacy Input support
+[UniverseLib] 	 IL2CPP method has no corresponding pointer, aborting patch of UnityEngine.AssetBundle.UnloadAllAssetBundles
+[UniverseLib] Loaded modern bundle for Unity 2022.3.22f1-DWR
+[UniverseLib] UniverseLib 1.4.3 initialized.
+Creating UI...
+
+UnityExplorer 4.9.0 (IL2CPP) initialized.
+[UniverseLib] Disabling extra VRChat EventSystem
+[UniverseLib] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <e1319b7195c343e79b385cd3aa43f5dc>:0 
+  at UniverseLib.UI.Widgets.ScrollView.ScrollPool`1[T].UpdateSliderHandle () [0x0017d] in <5bb7c84ac22f48159085ff021f0289a6>:0 
+  at UniverseLib.UI.Widgets.ScrollView.ScrollPool`1[T].OnValueChangedListener (UnityEngine.Vector2 val) [0x0011c] in <5bb7c84ac22f48159085ff021f0289a6>:0 
+  at UniverseLib.UI.Widgets.ScrollView.ScrollPool`1[T].Update () [0x000a6] in <5bb7c84ac22f48159085ff021f0289a6>:0 
+  at UniverseLib.UI.Models.UIBehaviourModel.UpdateInstances () [0x00065] in <5bb7c84ac22f48159085ff021f0289a6>:0 
